@@ -1,4 +1,8 @@
 # tfm
+
+### Ejecución del proyecto
+Para ejecutar el proyecto sólo se tiene que ejecutar el notebook tfm_Data_Science.ipynb
+
 ### Dependencias del proyecto
 Las librerías Python necesarias para poder ejecutar el código son:
 1. Tweepy:Recuperación de información de las cuentas Following
